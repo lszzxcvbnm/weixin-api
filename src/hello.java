@@ -4,6 +4,7 @@ public class hello {
         int c=100;
         int d=25;
         System.out.println(c/d);
+        System.out.println(d/c);
 
     }
 }
